@@ -8,6 +8,7 @@ from datetime import datetime
 
 noms = []
 adresses = []
+villes = []
 tels = []
 professions = []
 
@@ -27,14 +28,16 @@ time.sleep(2)
 j=1
 
 driver.find_element_by_xpath('/html/body/div[7]').click()
-
-# trouver le nombre de page
-nbPage=driver.find_element_by_xpath('/html/body/section/div[3]/section/section[2]/ul/li[1]').text
-nbPage = (nbPage[-2]+ nbPage[-1])
-print("page : " + nbPage)
-# driver.find_element_by_xpath('//*[@id="lastP"]').click()
-time.sleep(1)
-
+try:
+    # trouver le nombre de page
+    nbPage=driver.find_element_by_xpath('/html/body/section/div[3]/section/section[2]/ul/li[1]').text
+    nbPage = (nbPage[-2]+ nbPage[-1])
+    print("page : " + nbPage)
+    # driver.find_element_by_xpath('//*[@id="lastP"]').click()
+    time.sleep(1)
+except:
+    nbPage=1
+    pass
 page=1
 while(page<=int(nbPage)):
     # Test recup un element
@@ -46,8 +49,11 @@ while(page<=int(nbPage)):
             nom = driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .nom-prenom__response").text
             print(driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .phonenumber").text)
             tel = driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .phonenumber").text
-            print(driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .adresse__response ").text)
-            adresse = driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .adresse__response ").text
+            print(driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .adresse__response div:nth-child(1)").text)
+            print(driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .adresse__response div:nth-child(2)").text)
+            adresse = driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .adresse__response div:nth-child(1)").text
+            ville = driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .adresse__response div:nth-child(2)").text
+
             print(driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .activite__response").text)
             profession = driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .activite__response").text
             time.sleep(2)
@@ -55,17 +61,21 @@ while(page<=int(nbPage)):
             tels.append(tel)
             professions.append(profession)
             adresses.append(adresse)
+            villes.append(ville)
         except:
             pass
         ligne+=1
-
-    driver.find_element_by_xpath('//*[@id="nextP"]').click()
-    time.sleep(1)
+    try:
+        driver.find_element_by_xpath('//*[@id="nextP"]').click()
+        time.sleep(1)
+    except:
+        pass
     page+=1
 
 test = pd.DataFrame({
     'Nom ': noms,
     'Adresse': adresses,
+    'ville': villes,
     'Telephone': tels,
     'Activité': professions
 })
