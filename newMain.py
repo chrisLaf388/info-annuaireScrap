@@ -80,4 +80,4 @@ test = pd.DataFrame({
     'Activité': professions
 })
 
-test.to_csv('fichierCSV.csv',sep="|", encoding='utf-8-sig')
+test.to_csv(metier+ville+'.csv',sep="|", encoding='utf-8-sig')
