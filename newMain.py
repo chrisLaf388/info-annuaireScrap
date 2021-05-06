@@ -10,10 +10,10 @@ noms = []
 adresses = []
 villes = []
 tels = []
-professions = []
+
 
 print('entrer un profession ou tapper + pour rechercher tous les metiers')
-metier = input()
+nomFamille = input()
 print('tapper une ville, une region :')
 ville = input()
 
@@ -21,7 +21,7 @@ ville = input()
 driver = webdriver.Chrome('chromedriver.exe')
 
 # Lien de la page formulaire
-driver.get('https://www.infoannuaire.fr/pro/search?q='+metier+'&w='+ville+'&searchMode=pro')
+driver.get('https://www.infoannuaire.fr/res/search?q='+nomFamille+'&w='+ville)
 time.sleep(2)
 
 # Test recup un element
@@ -54,12 +54,10 @@ while(page<=int(nbPage)):
             adresse = driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .adresse__response div:nth-child(1)").text
             ville = driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .adresse__response div:nth-child(2)").text
 
-            print(driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .activite__response").text)
-            profession = driver.find_element(By.CSS_SELECTOR, ".response-aproche:nth-child("+ str(ligne)+") .activite__response").text
+
             time.sleep(2)
             noms.append(nom)
             tels.append(tel)
-            professions.append(profession)
             adresses.append(adresse)
             villes.append(ville)
         except:
@@ -76,8 +74,7 @@ test = pd.DataFrame({
     'Nom ': noms,
     'Adresse': adresses,
     'ville': villes,
-    'Telephone': tels,
-    'Activité': professions
+    'Telephone': tels
 })
 
-test.to_csv(metier+ville+'.csv',sep="|", encoding='utf-8-sig')
+test.to_csv('particulier'+ville+'.csv',sep="|", encoding='utf-8-sig')

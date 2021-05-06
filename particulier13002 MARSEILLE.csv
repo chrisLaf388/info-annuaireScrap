@@ -1,0 +1,251 @@
+﻿|Nom |Adresse|ville|Telephone
+0|SYLVAIN TOUATI||13002 Marseille|06 20 36 80 12
+1|INES LABIDI||13002 Marseille|06 24 73 84 32
+2|ANTOINETTE MARZIANO||13002 Marseille|06 20 60 79 81
+3|DANIEL BALAN||13002 Marseille|06 15 81 15 07
+4|SABINE BOYER||13002 MARSEILLE|06 12 83 53 11
+5|JEAN PAUL GAULLIER||13002 MARSEILLE|06 26 88 53 94
+6|ASMA KOUKI||13002 Marseille|06 14 10 33 27
+7|LAURENCE CASSAT||13002 MARSEILLE|06 29 20 50 05
+8|EMILIE AGIUS||13002 Marseille|06 35 46 35 08
+9|CLEMENT OLIVER||13002 MARSEILLE 02|07 76 69 29 13
+10|CHRISTOPHER ARTIGALAS||13002 MARSEILLE 02|07 68 54 31 36
+11|VANESSA LIGNEREUX||13002 MARSEILLE|06 69 94 69 37
+12|KATY GUGLIELMI||13002 MARSEILLE|06 15 86 61 24
+13|SIMONE MASCLET LAFFITTE||13002 MARSEILLE|06 01 67 67 08
+14|MARIA PEREIRA||13002 MARSEILLE|06 29 22 52 26
+15|ABDELGHANI GUETTACHE||13002 Marseille|06 12 70 40 60
+16|IVA PEYRON||13002 Marseille|06 62 37 67 04
+17|KEVIN GIRAUD||13002 Marseille|06 46 78 70 35
+18|FLORENT DELOSIER||13002 Marseille|06 27 63 06 33
+19|PIERETTE MIDY||13002 Marseille|06 10 48 06 77
+20|WAFA KADDOUR||13002 MARSEILLE|07 71 27 53 41
+21|VINCENT SALIBA||13002 MARSEILLE|06 36 10 48 30
+22|HERVE LI VIGNI||13002 Marseille|06 27 91 48 98
+23|SABEHA SAHEB||13002 MARSEILLE 02|06 25 24 72 25
+24|MARIE ANGE MOZZICONACCI||13002 Marseille|06 27 07 18 45
+25|AUDREY GRAFFAULT||13002 MARSEILLE 02|06 99 38 42 87
+26|MARIE PIERRE DENICOLAI||13002 Marseille|06 24 22 93 01
+27|JEAN PIERRE GUGLIELMACCI||13002 Marseille|06 24 86 01 58
+28|CHOHRA GATI||13002 MARSEILLE 02|06 01 37 12 08
+29|NATHALIE PIAZZA||13002 MARSEILLE|07 69 57 57 76
+30|Melissa Grine|36 GRAND RUE|13002 Marseille|06 58 23 16 61
+31|Hadj Abed Harichane|12 B Rue d'Anthoine|13002 Marseille|04 88 22 10 38
+32|Aicha Djebri|37 Avenue Camille Pelletan|13002 Marseille|09 82 22 53 95
+33|Zenou Said abdou|3 Rue François Massabo|13002 Marseille|07 60 64 40 91
+34|Djalel Khamalah|17 Rue des Mauvestis|13002 Marseille|09 50 22 07 33
+35|Nadjat Bouzouina|70 Rue de la Joliette|13002 Marseille|09 86 66 94 83
+36|Stephanie Nicolitsi|48 Boulevard des Dames|13002 Marseille|09 87 78 84 25
+37|Keltoum Bakiri|13 Rue Vincent Leblanc|13002 Marseille|04 91 90 57 14
+38|Djambaye Hassani|43 Rue Pierre Albrand|13002 Marseille|06 64 98 21 85
+39|Karim Chateur|32 Avenue Robert Schuman|13002 Marseille|09 81 30 09 55
+40|Houari Chicha|5 Rue Méry|13002 Marseille|09 82 28 27 96
+41|Mohamed Riadi|2 Rue Guintrand|13002 Marseille|09 51 64 75 30
+42|Hind Rezala|8 Rue Michel Salvarelli|13002 Marseille|09 82 23 64 69
+43|Marcel Siguret|1 Place du Château-Joly|13002 Marseille|04 91 90 13 40
+44|Julie Cotignola|106 Rue de l'Évêché|13002 Marseille|04 91 90 81 04
+45|Nadia Denicolai|57 Avenue Robert Schuman|13002 Marseille|04 91 91 62 22
+46|Nancy Tair|12 Rue du Chevalier Roze|13002 Marseille|09 86 23 40 57
+47|Imogen Kitchin|17 Rue Montolieu|13002 Marseille|09 87 36 23 77
+48|Nicolas Piccinno|28 rue BONNETERIE|13002 Marseille|09 80 62 20 85
+49|Michel Auge|65 Rue de la République|13002 Marseille|09 81 02 45 12
+50|Paola Coste|48 Rue du Lacydon|13002 Marseille|09 83 40 99 55
+51|Aicha Ferguene|103 boulevard DE PARIS|13002 Marseille|09 83 58 33 97
+52|Jeannine Tonton|37 Avenue de Saint-Jean|13002 Marseille|09 83 80 40 88
+53|Marion Coaissieux|54 Rue Puvis de Chavannes|13002 Marseille|09 86 40 52 17
+54|Romain Perich|54 Rue Mazenod|13002 Marseille|09 86 45 85 30
+55|Attua Ahamadammadi|8 rue FELIX EBOUEA|13002 Marseille|09 81 84 86 27
+56|Anne Marie Barbaran|36 GRAND RUE|13002 Marseille|04 91 52 63 41
+57|Myriam Neuman zeid|30 Rue Fauchier|13002 Marseille|09 81 31 36 33
+58|Antoinette Grimaldi|11 rue MALAVAL|13002 Marseille|04 91 90 60 70
+59|Florian Vareille|17 rue DES PHOCEENS|13002 Marseille|09 83 99 85 86
+60|Mustapha Belhaj|50 rue DU LACYDON|13002 Marseille|09 86 32 12 64
+61|Claire Chaix|20 rue CAISSERIE|13002 Marseille|09 81 25 77 33
+62|Luis Alberto Viloria|7 rue HONNEURS|13002 Marseille|09 81 67 53 66
+63|Severine Bayle|14 rue CAISSERIE|13002 Marseille|09 82 32 48 42
+64|Ouria Benaissa|14 rue PONTEVES|13002 Marseille|09 82 36 47 33
+65|Pascale Marchetti|50 rue REPUBLIQUE|13002 Marseille|09 83 47 60 54
+66|Eva Chevallier|7 Square Protis|13002 Marseille|09 82 23 01 95
+67|Marie Madeleine Desruelles|29 boulevard PARISLE PARIS|13002 Marseille|04 91 90 83 24
+68|Slimane Lakrar|12 rue CHEVALIER ROZE|13002 Marseille|09 81 25 68 60
+69|Coralie Raisi|41 rue REPUBLIQUE|13002 Marseille|09 81 29 96 60
+70|Maguelonne Grasset|2 rue FRANCOIS MASSABORESID LE MASSABO C1|13002 Marseille|09 81 79 79 92
+71|Florence Loeuillet|93 boulevard DE PARIS|13002 Marseille|09 83 03 15 25
+72|Myriam Chehili|29 boulevard DES DAMES|13002 Marseille|09 86 60 09 63
+73|Mohammed Lazhari|12 rue FONTAINE DE CAYLUS|13002 Marseille|09 81 32 83 80
+74|Antonio Barry|52 rue CHEVALIER PAUL|13002 Marseille|09 81 85 05 02
+75|Vincent Galli|8 MONTEE ACCOULES|13002 Marseille|09 86 38 57 79
+76|Achoun Mamou|11 rue GOURJON|13002 Marseille|09 86 48 84 61
+77|Sonia Diesny|19 rue REPUBLIQUE|13002 Marseille|09 87 13 75 23
+78|Khaled Jaziri|10 rue GOURJON|13002 Marseille|09 81 25 55 11
+79|Samia Abed|15 quai DE LA JOLIETTE B|13002 Marseille|09 82 28 89 95
+80|Marie Lacaze-gauthier|19 Rue Henri Tasso|13002 Marseille|04 91 91 87 67
+81|Sokhna Niang|123 rue DE L EVECHE B|13002 Marseille|09 88 06 03 01
+82|Karim Bouras|84 rue DE LA REPUBLIQUE|13002 Marseille|07 63 20 93 83
+83|Axel Cortinovis|12 Rue Fontaine des Vents|13002 Marseille|04 91 19 80 27
+84|Hadjira Saidani|25 rue FAUCHIER|13002 Marseille|04 91 56 18 93
+85|Bernard Mermet|156 Quai du Port|13002 Marseille|04 91 90 29 67
+86|Micheline Medina|7 Rue Chevalier Paul|13002 Marseille|04 91 52 73 95
+87|Anais Rogeon|41 Rue de la Loge|13002 Marseille|09 81 09 93 07
+88|Patricia Rigon|23 Rue Vincent Leblanc|13002 Marseille|09 81 79 86 75
+89|Benyssaad Reguieg issaad|9 Rue Mazenod|13002 Marseille|09 83 03 34 41
+90|Eder Da silva pedrosa|54 Rue Puvis de Chavannes|13002 Marseille|09 81 19 00 79
+91|Mounir Belarif|52 Rue Pierre Albrand|13002 Marseille|09 81 92 82 60
+92|Florian Guibelin|19 Rue Vincent Leblanc|13002 Marseille|09 87 34 83 33
+93|Farid Hadda|13 Rue du Petit Puits|13002 Marseille|09 87 37 71 93
+94|Michel Zeguers|84 Boulevard des Dames|13002 Marseille|09 82 32 43 68
+95|Chloe Recouvreur|27 Boulevard des Dames|13002 Marseille|09 87 39 39 23
+96|Rabia Benyamina|29 Rue Duverger|13002 Marseille|09 87 30 07 03
+97|Abdelsedik Zouainia|12 Rue du Chevalier Roze|13002 Marseille|09 87 07 17 36
+98|Veronique Bonfanti cantini|56 Rue Mazenod|13002 Marseille|09 83 53 90 13
+99|Albert Vincent Meconi|12 Rue du Chevalier Roze|13002 Marseille|09 87 04 33 47
+100|Brigitte Tegar|48 Rue Caisserie|13002 Marseille|09 83 80 76 61
+101|Benjamin Louazel|7 Rue Saint-Mathieu|13002 Marseille|09 86 75 45 54
+102|Abdoul Karim Cisse|7 Rue du Puits Saint-Antoine|13002 Marseille|09 87 46 45 81
+103|Marion Savajols|23 Rue des Repenties|13002 Marseille|09 87 59 26 18
+104|Myriam Merad|41 Avenue Camille Pelletan|13002 Marseille|09 50 20 48 78
+105|Gilda Garcia|126 Rue de Ruffi|13002 Marseille|09 86 19 92 17
+106|Said Karihila|5 Rue Gourjon|13002 Marseille|09 81 17 80 64
+107|Maurice Martinez|9 Rue Mazenod|13002 Marseille|09 86 53 95 90
+108|Abdelwahhab Doukali|1 traverse DE LA MADRAGUE VILLE|13002 Marseille|09 53 56 64 85
+109|Fatima Bechir|21 Rue Pontevès|13002 Marseille|09 53 47 67 40
+110|Thomas Hirth|1 Rue d'Hozier|13002 Marseille|09 87 58 30 95
+111|Emile Quinson|9 square PROTIS|13002 Marseille|09 81 18 00 20
+112|Damien Vidal|16 Rue Saint-Antoine|13002 Marseille|09 83 01 20 10
+113|Nina Marietta Nimbona|8 Rue Plumier|13002 Marseille|09 87 75 58 44
+114|Camille Marron|30 Avenue Robert Schuman|13002 Marseille|09 87 78 84 70
+115|Ange-Charles Valencia|87 Boulevard de Paris|13002 Marseille|09 82 51 61 13
+116|Mabrouk Redjimi|16 Rue de Forbin|13002 Marseille|09 87 71 01 09
+117|Catherine Olive|9 Rue Trigance|13002 Marseille|04 88 64 25 14
+118|Ismael Said abdallah|38 rue DU BON PASTEUR CHEZ SAID ABADALLAH|13002 Marseille|06 58 35 27 61
+119|Marc Laxalde|106 Rue de l'Évêché|13002 Marseille|04 91 88 68 22
+120|Rahamata Boina|13 Rue Gourjon|13002 Marseille|09 81 39 54 36
+121|Alena Khaoustova|6 Place de Lorette|13002 Marseille|09 81 71 11 57
+122|Arielle Picaud|45 Rue de la Loge|13002 Marseille|09 81 91 86 05
+123|Danielle Chapuis|8 rue PORTE BAUSSENQUE|13002 Marseille|09 81 67 82 65
+124|Younes Abed|38 Rue de l'Évêché|13002 Marseille|09 82 24 50 28
+125|Rosie Boutin|1 traverse DE LA MADRAGUE VILLE|13002 Marseille|09 81 78 64 38
+126|Thierry Chekroun|16 Rue du Petit Puits|13002 Marseille|09 82 26 08 05
+127|Lucine Karapetyan|24 Esplanade de la Tourette|13002 Marseille|09 82 28 12 44
+128|Thierry Assanelli|26 Rue Désirée Clary|13002 Marseille|09 82 55 98 57
+129|Kamel Kouzi|24 rue FORBINIMM ATLANTIS 34|13002 Marseille|09 82 59 48 98
+130|Emilie Boutar|48 Rue Mazenod|13002 Marseille|09 83 24 01 35
+131|Alexandre Laroche|64 Rue de la Joliette|13002 Marseille|09 83 09 61 32
+132|Antonia Livramento|1 Boulevard de Paris|13002 Marseille|09 83 30 39 90
+133|Christiane Grima|40 CH LITTORAL|13002 Marseille|09 83 27 55 05
+134|Cecile Alesi|6 Place des Augustines|13002 Marseille|09 83 35 88 00
+135|Veronique Gromellon|21 Rue Fauchier|13002 Marseille|09 83 93 64 68
+136|Marie-Rose Frigiere|18 Rue Chevalier Paul|13002 Marseille|09 86 43 97 09
+137|Abdellah Charif chefchaouni|9 Rue de la République|13002 Marseille|09 86 21 28 30
+138|Celine Fode|20 rue OBSERVANCERESID J-F LECA|13002 Marseille|09 86 42 68 40
+139|Ismail Zerrouk|17 Rue de l'Évêché|13002 Marseille|09 86 50 27 37
+140|Ismael Hamadouche|45 Boulevard des Dames|13002 Marseille|09 87 00 27 01
+141|Gaelle Alauze|66 Rue de la République|13002 Marseille|09 81 83 69 89
+142|Denise Philippe|2 Rue Saint-Laurent|13002 Marseille|09 81 19 96 68
+143|Fathi Moutfi|30 Avenue Robert Schuman|13002 Marseille|09 83 03 67 44
+144|Gezim Hykolli|9 Rue Plumier|13002 Marseille|09 83 71 49 02
+145|Rachid Oulahen|16 Rue de Forbin|13002 Marseille|09 83 67 43 50
+146|Julien Duguet|103 boulevard PARISIMM ATRIUM D|13002 Marseille|09 82 46 16 95
+147|Lenin Chinchilla|6 Rue Ballard|13002 Marseille|09 81 75 49 58
+148|Sylvie Valosio|9 rue PHOCEENSRESID Sainte CLAIRE 4|13002 Marseille|04 91 31 64 35
+149|Romain Vonthron|40 Rue Pierre Albrand|13002 Marseille|09 87 13 07 16
+150|Wassila Bouazza|46 Rue Chevalier Paul|13002 Marseille|09 87 13 45 94
+151|Amandine Boucaud|32 Avenue Robert Schuman|13002 Marseille|09 81 76 95 22
+152|Nouredine Boughaba|88 boulevard DUNKERQUEILOT M1 CAGE A A|13002 Marseille|09 87 04 23 95
+153|Sylvie Boyer|1 Place Francis Chirat|13002 Marseille|09 83 99 19 12
+154|Najette Mohamed|4 Rue Gourjon|13002 Marseille|09 83 63 94 51
+155|Caroline Djoulfayan|5 Rue Félix Éboué|13002 Marseille|04 91 90 82 49
+156|Andree Leydet|35 Rue Caisserie|13002 Marseille|09 86 17 51 28
+157|Michel Adjemi|16 Rue Jean Galland|13002 Marseille|09 87 54 68 90
+158|Valentin Dulong|48 Boulevard des Dames|13002 Marseille|09 87 55 07 75
+159|Claire Salem|6 Rue François Moisson|13002 Marseille|09 86 17 78 13
+160|Djamel Hadj-brahim|4 rue FRANCOIS MASSABOMASSABO M|13002 Marseille|09 81 78 06 00
+161|Pauline Chabrand|46 Rue Mazenod|13002 Marseille|09 88 04 94 75
+162|Zohara Saadi|14 rue DE FORBIN|13002 Marseille|06 65 42 99 81
+163|Danielle Calone|54 Quai du Port|13002 Marseille|04 91 91 74 38
+164|Jeannine Andreoli|30 Avenue Robert Schuman|13002 Marseille|04 91 90 38 86
+165|Marina Lafon-borelli|15 Rue de la Loge|13002 Marseille|06 37 49 91 44
+166|Martine Bourthoumieu|2 Rue du Puits Saint-Antoine|13002 Marseille|04 91 90 31 13
+167|Marie-Odile Ly Thanh Canh|19 Quai de la Joliette|13002 Marseille|04 91 31 98 38
+168|Michel Forge|104 Boulevard des Dames|13002 Marseille|04 91 56 25 72
+169|Audrey Garino|65 Rue de la Joliette|13002 Marseille|04 91 31 28 03
+170|Jean-Claude Mariotti|5 Rue Félix Éboué|13002 Marseille|04 91 90 52 21
+171|Maryse Savy|5 Rue de la République|13002 Marseille|04 91 90 86 59
+172|Joel Delabre|1 Rue Trigance|13002 Marseille|04 91 90 03 09
+173|Jean-Claude Michau|109 Chemin du Littoral|13002 Marseille|04 91 09 75 34
+174|Laetitia Star|3 Rue Plumier|13002 Marseille|04 91 31 77 42
+175|Denis Gieulles|26 Boulevard des Dames|13002 Marseille|04 91 01 31 55
+176|Didier Gueranger|36 Rue Caisserie|13002 Marseille|04 91 52 33 02
+177|Helene Poligne|43 Rue du Petit Puits|13002 Marseille|04 91 52 04 87
+178|Sergio Ruiz leon|29 A boulevard PARIS|13002 Marseille|07 81 92 69 98
+179|Françoise Venturini|29 Rue Henri Tasso|13002 Marseille|04 91 91 61 30
+180|Raymond Scaffa|1 Place du Terras|13002 Marseille|09 80 95 59 18
+181|Maurice Padovani|30 Grand Rue|13002 Marseille|04 91 52 19 69
+182|Bernard Marsiano|29 Boulevard de Paris|13002 Marseille|04 91 90 09 61
+183|Linda Tchkleves|31 Rue de la Loge|13002 Marseille|04 91 90 94 70
+184|Ermelinda Souza|43 Rue Pierre Albrand|13002 Marseille|04 91 90 43 85
+185|Carine Couton|26 Rue Colbert|13002 Marseille|04 91 91 34 29
+186|Yvette Bocquet|62 Quai du Port|13002 Marseille|04 91 90 69 12
+187|Franck Graff|6 Rue Saint-Pons|13002 Marseille|09 64 45 67 75
+188|Olivier Thebault|18 Rue du Poirier|13002 Marseille|06 88 44 64 35
+189|Yannick Mur|14 Rue des Pistoles|13002 Marseille|09 67 18 37 71
+190|Pascal Neveux|13 Rue du Chevalier Roze|13002 Marseille|04 91 91 49 28
+191|Pierre Sauvageot|19 Rue Malaval|13002 Marseille|04 91 90 54 02
+192|Véronique Bonhomme|46 Rue de la Joliette|13002 Marseille|04 91 56 69 23
+193|Magali Gombert|24 Rue de Forbin|13002 Marseille|04 91 93 48 79
+194|Guillaume Gaudry|51 Rue de la République|13002 Marseille|04 91 52 17 90
+195|Fabrice Barrabes|3 Quai de la Joliette|13002 Marseille|04 91 52 59 34
+196|Andrea Raharivelo|52 Chemin du Littoral|13002 Marseille|04 91 09 73 46
+197|Yan Fournier|42 Rue de l'Évêché|13002 Marseille|04 91 44 87 67
+198|Lucas Nicolas|25 Rue Vincent Leblanc|13002 Marseille|04 91 45 73 52
+199|Mathieu Mathieu|4 Rue Guintrand|13002 Marseille|04 91 91 06 09
+200|MICHEL CRUCIANI|49 Rue de la Joliette|13002 Marseille|04 91 91 70 56
+201|ZOUHA TARHOUNI|39 Rue Henri Tasso|13002 Marseille|09 52 94 64 43
+202|CELIA BOURGEAT|53 Rue de Forbin|13002 Marseille|04 84 26 91 11
+203|HAFIDA BEY|4 RUE MERY|13002 MARSEILLE|04 86 97 68 13
+204|BRIGITTE RAFFAELLI|128 Rue de Ruffi|13002 Marseille|04 86 94 11 24
+205|KARIMA MAKHFI|13 Rue Vincent Leblanc|13002 Marseille|04 88 86 76 69
+206|Stephan Cassaro|1 place du chateau joly|13002 Marseille|04 91 91 18 88
+207|MEZIANE KHELOUI|25 Avenue Camille Pelletan|13002 Marseille|09 51 35 40 35
+208|MAJDI LABIDI|9 Rue Mazenod|13002 Marseille|04 88 86 75 66
+209|THOMAS MILLER|20 Rue du Refuge|13002 Marseille|04 65 95 46 70
+210|YAMINA ABED|50 Rue Mazenod|13002 Marseille|04 91 90 92 45
+211|MALIK SIDI BOULENOUAR|44 RUE DE LORETTE|13002 MARSEILLE|04 88 64 41 07
+212|YOUCEF ALLILAT|29 RUE DESIREE CLARY|13002 MARSEILLE|04 91 91 68 35
+213|NADHEM ABIDI|29 RUE PIERRE ALBRAND|13002 MARSEILLE|04 88 08 03 79
+214|ANNE HOANG|6 RUE MERY|13002 MARSEILLE|04 91 90 71 92
+215|KADDA KROLKRAL|25 BOULEVARD DES DAMES|13002 MARSEILLE|04 88 08 06 05
+216|CLEMENCE MUSELET|20 RUE DU PANIER|13002 MARSEILLE|04 86 94 53 16
+217|ABOUBACAR ABDOU BACAR|44 RUE DE LA REPUBLIQUE|13002 MARSEILLE|04 86 95 84 12
+218|OUMAIMA ERRAZI|83 RUE DE LA REPUBLIQUE|13002 MARSEILLE|04 65 95 11 20
+219|MATHIEU LAKHDAR-CARBONI|9 RUE JEAN GALLAND|13002 MARSEILLE|04 88 86 35 24
+220|MARIE-ANNE VINCENSINI|32 RUE DU CHEVALIER PAUL|13002 MARSEILLE|04 88 86 39 00
+221|PIERRETTE MAZZELLA|17 RUE DES PHOCEENS|13002 MARSEILLE|04 91 90 28 24
+222|EVA PEREZ|14 BOULEVARD MIRABEAU|13002 MARSEILLE|04 88 86 30 32
+223|KHEIRA JAUFFRET|RUE DES ICARDINS|13002 MARSEILLE|04 91 91 63 78
+224|UDIT SHEKHAR|16 RUE FONTAINE DES VENTS|13002 MARSEILLE|04 13 59 25 51
+225|FATIMA ABDOU|14 RUE DU VIEUX PALAIS|13002 MARSEILLE|04 86 77 43 93
+226|JEAN-EMILIO EYMAS|39 RUE DE LA REPUBLIQUE|13002 MARSEILLE|04 88 08 89 67
+227|NTENALNT VEIZATI|37 RUE DU POIRIER|13002 MARSEILLE|04 88 00 52 83
+228|FATMA BAZINE|3 RUE FAUCHIER|13002 MARSEILLE|09 51 36 88 36
+229|RENE MUSSI|66 BD DAMES|13002 MARSEILLE|04 84 18 45 58
+230|EMILIE AUCOUTURIER|22 RUE JEAN FRANCOIS LECA|13002 MARSEILLE|04 84 26 50 94
+231|BELKHEIR SAMBA|23 RUE PIERRE ALBRAND|13002 MARSEILLE|04 84 18 24 12
+232|MYRIAM HAMMOUMI|3 RUE CHARLES PLUMIER|13002 MARSEILLE|04 86 97 12 29
+233|VINCENT COLOMB|RUE DES BELLES ECUELLES|13002 MARSEILLE 02|04 86 94 59 65
+234|OLGA JIMENEZ|12 RUE CHARLES PLUMIER|13002 MARSEILLE|04 86 94 57 82
+235|CHRISTOPHE CLAVERE|30 RUE FAUCHIER|13002 MARSEILLE|04 88 86 15 50
+236|BASSIROU POUYE|45 RUE PIERRE ALBRAND|13002 MARSEILLE|04 88 04 40 76
+237|MATHIEU AMMOUR|49 RUE DE LA LOGE|13002 MARSEILLE|04 88 08 50 12
+238|DALILA TAHAR|13 RUE BAUSSENQUE|13002 MARSEILLE|04 88 08 30 36
+239|AZIZA TOUABRIA|25 RUE SAINTE BARBE|13002 MARSEILLE|09 84 27 77 52
+240|JEAN MARC ABELLA|39 RUE DE LA REPUBLIQUE|13002 MARSEILLE|04 88 08 39 44
+241|SMAIL ELARIAK|10 RUE CHEVALIER ROZE|13002 MARSEILLE|04 88 86 65 36
+242|NINA KLEINDIENST|2 RUE DES MAUVESTIS|13002 MARSEILLE|04 86 97 11 49
+243|VIRGINIE GOMBERT|48 RUE DU LACYDON|13002 MARSEILLE|04 88 00 55 34
+244|NADER SASSI|31 RUE PIERRE ALBRAND|13002 MARSEILLE|04 84 33 96 08
+245|FELLA KARKARINE|1 BD PARIS|13002 MARSEILLE|04 84 18 07 42
+246|ALI KAHLAOUI|48 RUE PIERRE ALBRAND|13002 MARSEILLE|04 13 43 77 96
+247|CELIA HEDUIN|30 RUE FAUCHIER|13002 MARSEILLE|04 88 15 64 74
+248|EMMANUEL FARES|3 RUE DES ICARDINS|13002 MARSEILLE|04 86 77 18 02
+249|MARC HARBON|2 RUE GUINTRAND|13002 MARSEILLE|09 86 34 01 64
